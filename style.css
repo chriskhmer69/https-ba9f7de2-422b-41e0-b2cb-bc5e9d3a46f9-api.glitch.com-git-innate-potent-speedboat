@@ -82,3 +82,8 @@ li a {
 li a:hover {
   color: var(--color-1);
 }
+ul {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
